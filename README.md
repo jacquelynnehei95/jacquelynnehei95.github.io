@@ -1,2 +1,2 @@
-# jacquelynnehei95.github.io
-Game Dev with JacquelynneHei website
+# Game Dev with JacquelynneHei
+
